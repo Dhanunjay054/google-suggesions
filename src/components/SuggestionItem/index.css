@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.Suggestions-list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-content: center;
+  align-self: center;
+}
+
+.arrow-icon {
+  height: 20px;
+  width: 20px;
+}
